@@ -1,0 +1,125 @@
+<!-- Bootstrap -->
+<script src="https://www.enmu.edu/media/vendor/jquery/js/jquery.min.js?3.6.0" type="text/javascript"></script>
+<script src="https://www.enmu.edu/templates/edulif/js/bootstrap.bundle.min.js" type="text/javascript"></script>
+<!--Custom CSS-->
+<div class="equalrow-1">
+	<div class="equalcolumn-4">
+		<div class="equalcolumn-wrap">
+			<div class="equalcolumn-custom grey-col">
+				<p><a href="https://www.bwdarchaeology.com/" title="Blackwater Draw Museum"><img src="images/about/arts-culture/blackwater-draw-museum.jpg" alt="Blackwater Draw Museum" width="768" height="512" /></a></p>
+				<h2><a href="https://www.bwdarchaeology.com/" title="Blackwater Draw Museum">Blackwater Draw Museum</a></h2>
+				<p>The museum displays and artifacts describe and interpret life at the archaeology site from Clovis times (over 13,000 years ago) all the way through the recent historic period.</p>
+			</div>
+		</div>
+	</div>
+	<div class="equalcolumn-4">
+		<div class="equalcolumn-wrap">
+			<div class="equalcolumn-custom grey-col">
+				<p><a href="https://www.bwdarchaeology.com/" title="Blackwater Draw National Landmark"><img src="images/about/arts-culture/blackwater-draw-landmark.jpg" alt="Blackwater Draw National Landmark" width="768" height="512" /></a></p>
+				<a href="https://www.bwdarchaeology.com/" rel="noreferrer" title="Jack Williamson Science Fiction Library">
+					<h2>Blackwater Draw National Landmark</h2>
+				</a>
+				<p>The landmark is the type-site for the Clovis culture, North America’s oldest positively defined cultural group.</p>
+			</div>
+		</div>
+	</div>
+	<div class="equalcolumn-4">
+		<div class="equalcolumn-wrap">
+			<div class="equalcolumn-custom grey-col">
+				<p><a href="about/general-information/local-events-and-info/arts-and-culture/natural-history-museum" title="Sidewalk Chalk Competition"><img src="images/about/arts-culture/natural-history-museum.JPG" alt="Natural History Museum" width="768" height="512" /></a></p>
+				<a href="about/general-information/local-events-and-info/arts-and-culture/natural-history-museum" rel="noreferrer" title="Dr. Antonio Tony Gennaro Natural History Museum">
+					<h2>Dr. Antonio "Tony" Gennaro Natural History Museum</h2>
+				</a>
+				<p>The museum promotes an understanding of the diversity of life, emphasizing the natural heritage of eastern New Mexico and the greater Southwest.</p>
+			</div>
+		</div>
+	</div>
+	<div class="equalcolumn-4">
+		<div class="equalcolumn-wrap">
+			<div class="equalcolumn-custom grey-col">
+				<p><a href="academics/colleges-departments/college-of-fine-arts/k-12-resources" title="Fine Arts Camps, Lectures, and Workshops"><img src="images/about/arts-culture/fine-arts-camps.jpg" alt="Fine Arts Camps, Lectures, and Workshops" width="768" height="512" /></a></p>
+				<a href="academics/colleges-departments/college-of-fine-arts/k-12-resources" rel="noreferrer" title="Fine Arts Camps, Lectures, and Workshops">
+					<h2>Fine Arts Camps, Lectures, and Workshops</h2>
+				</a>
+				<p>We are here to help support you and your students by offering workshops, festivals, private lessons, etc.</p>
+			</div>
+		</div>
+	</div>
+	<div class="equalcolumn-4">
+		<div class="equalcolumn-wrap">
+			<div class="equalcolumn-custom grey-col">
+				<p><a href="academics/colleges-departments/college-of-fine-arts/fine-arts-events" title="Fine Arts Season"><img src="images/about/arts-culture/fine-arts-season.JPG" alt="Fine Arts Season" width="768" height="512" /></a></p>
+				<a href="academics/colleges-departments/college-of-fine-arts/fine-arts-events" rel="noreferrer" title="Fine Arts Season">
+					<h2>Fine Arts Season</h2>
+				</a>
+				<p>ENMU has a long-standing tradition of providing exceptional art, film, music and theatre performances, productions, and exhibits; most of which of free and open to the public.</p>
+			</div>
+		</div>
+	</div>
+	<div class="equalcolumn-4">
+		<div class="equalcolumn-wrap">
+			<div class="equalcolumn-custom grey-col">
+				<p><a href="index.php?option=com_content&amp;view=article&amp;id=854&amp;Itemid=1508" title="Jack Williamson Science Fiction Lectureship"><img src="images/about/arts-culture/jack-williamson-lectureship.jpg" alt="Jack Williamson Science Fiction Lectureship" width="768" height="512" /></a></p>
+				<h2><a href="index.php?option=com_content&amp;view=article&amp;id=854&amp;Itemid=1508" title="Jack Williamson Science Fiction Lectureship">Jack Williamson Science Fiction Lectureship</a></h2>
+				<p>The lectureship celebrates writers, editors, artists, and many others that have contributed to the Science Fiction genre.</p>
+			</div>
+		</div>
+	</div>
+	<div class="equalcolumn-4">
+		<div class="equalcolumn-wrap">
+			<div class="equalcolumn-custom grey-col">
+				<p><a href="https://enmu.libguides.com/c.php?g=816238&amp;p=5825595#s-lg-box-23166234" title="Jack Williamson Science Fiction Library"><img src="images/about/arts-culture/jack-williamson-library.jpg" alt="Jack Williamson Science Fiction Library" width="768" height="512" /></a></p>
+				<a href="https://enmu.libguides.com/c.php?g=816238&amp;p=5825595#s-lg-box-23166234" rel="noreferrer" title="Jack Williamson Science Fiction Library">
+					<h2>Jack Williamson Science Fiction Library</h2>
+				</a>
+				<p>The library is one of the top science fiction collections in the world containing more than 30,000 volumes as well as the works of science fiction pioneer Jack Williamson.</p>
+			</div>
+		</div>
+	</div>
+	<div class="equalcolumn-4">
+		<div class="equalcolumn-wrap">
+			<div class="equalcolumn-custom grey-col">
+				<p><a href="about/general-information/local-events-and-info/arts-and-culture/miles-mineral-museum" title="Miles Mineral Museum"><img src="images/about/arts-culture/miles.JPG" alt="Miles Mineral Museum" width="768" height="512" /></a></p>
+				<a href="about/general-information/local-events-and-info/arts-and-culture/miles-mineral-museum" rel="noreferrer" title="Miles Mineral Museum">
+					<h2>Miles Mineral Museum</h2>
+				</a>
+				<p>The museum is the caretakers of over 2,500 geological, archaeological, and anthropological specimens, many from the private collection of Fred and Gladys Miles. Some of these specimens are on display.</p>
+			</div>
+		</div>
+	</div>
+	<div class="equalcolumn-4">
+		<div class="equalcolumn-wrap">
+			<div class="equalcolumn-custom grey-col">
+				<p><a href="about/general-information/local-events-and-info/arts-and-culture/roosevelt-county-museum" title="Roosevelt County Historical Museum"><img src="images/about/arts-culture/roosevelt-county-museum.jpg" alt="Roosevelt County Historical Museum" width="768" height="512" /></a></p>
+				<a href="about/general-information/local-events-and-info/arts-and-culture/roosevelt-county-museum" rel="noreferrer" title="Roosevelt County Historical Museum">
+					<h2>Roosevelt County Historical Museum</h2>
+				</a>
+				<p>Founded in 1940 through funding provided by the Works Project Administration (WPA), the museum features artifacts from the early life of the residents of Roosevelt County.</p>
+			</div>
+		</div>
+	</div>
+	<div class="equalcolumn-4">
+		<div class="equalcolumn-wrap">
+			<div class="equalcolumn-custom grey-col">
+				<p><a href="academics/colleges-departments/college-of-fine-arts/academic-departments/department-of-art/runnels-gallery" title="Runnels Gallery"><img src="images/about/arts-culture/runnels.jpg" alt="Runnels Gallery" width="768" height="512" /></a></p>
+				<a href="academics/colleges-departments/college-of-fine-arts/academic-departments/department-of-art/runnels-gallery" rel="noreferrer" title="Runnels Gallery">
+					<h2>Runnels Gallery</h2>
+				</a>
+				<p>Our premier campus gallery features a variety of creative visual work from students, faculty and staff, alumni, and notable guest artists as well as several community outreach programs.</p>
+			</div>
+		</div>
+	</div>
+	<div class="equalcolumn-4">
+		<div class="equalcolumn-wrap">
+			<div class="equalcolumn-custom grey-col">
+				<p><a href="https://enmu.libguides.com/c.php?g=816238&amp;p=5825595#s-lg-box-23166177" title="Southwest Collections"><img src="images/about/arts-culture/southwest-collection.jpg" alt="Southwest Collections" width="768" height="512" /></a></p>
+				<a href="https://enmu.libguides.com/c.php?g=816238&amp;p=5825595#s-lg-box-23166177" rel="noreferrer" title="Southwest Collections">
+					<h2>Southwest Collections</h2>
+				</a>
+				<p>The Southwest Collection is an assortment of rare and unusual books by New Mexico authors and books about New Mexico. The collection also includes books about individual New Mexico communities and counties.</p>
+			</div>
+		</div>
+	</div>
+</div>
+<h3>Find Us on Social Media:</h3>
+<p><a href="https://www.facebook.com/ENMURunnelsGallery" target="_blank" rel="noopener noreferrer"><img src="/images/socialIcons/facebook50.png" alt="Runnels Gallery Facebook" onmouseover="this.src='/images/socialIcons/facebookOver50.png';" onmouseout="this.src='/images/socialIcons/facebook50.png';" /></a> <a href="https://twitter.com/Runnels_Gallery" target="_blank" rel="noopener noreferrer"><img src="/images/socialIcons/twitter50.png" alt="Runnels Gallery Twitter" onmouseover="this.src='/images/socialIcons/twitterOver50.png';" onmouseout="this.src='/images/socialIcons/twitter50.png';" /></a></p>
